@@ -5,8 +5,8 @@ import Header from './components/Header/Header';
 import Nav from './components/Navbar/Nav';
 import Profile from './components/Profile/Profile';
 import MyPosts from './components/Profile/MyPosts/MyPosts';
-import Dialogs from './components/Dialogs/Dialogs.jsx'
-import News from './components/News/News'
+import Dialogs from './components/Dialogs/Dialogs.jsx';
+import News from './components/News/News';
 import { BrowserRouter, Route } from 'react-router-dom';
 import Music from './components/Music/Music';
 import Settings from './components/Settings/Settings';
